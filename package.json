@@ -1,7 +1,10 @@
 {
-  "name": "tmp-nuxt",
+  "name": "acteamo-landing",
   "private": true,
   "type": "module",
+  "engines": {
+    "node": ">=22.21.0"
+  },
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
